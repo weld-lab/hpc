@@ -3,6 +3,11 @@ My scripts, personal notes & snippets to navigate an HPC environment
 
 ## Cheatsheet
 
+
+### Utils command
+
+- `watch -n X qstat` : monitor qstat (refresh each `X` seconds)
+
 ### Environment Modules
 
 - `module avail` : search for available modules
